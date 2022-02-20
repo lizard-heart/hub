@@ -1,0 +1,6 @@
+name: "dates-package"
+title: "Dates Package"
+description: A package for typing future dates using days of the week.
+version: 0.1.0
+author: Henry Gustafson
+tags: ["example"]
